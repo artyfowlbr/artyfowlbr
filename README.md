@@ -1,3 +1,6 @@
+<div align="center"> 
+      <a href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=4934A3&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Seja+bem+vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
+</div>
 <h1 align="center">Olá, sou Jammyl Amorim!</h1>
 <h2 align="center">Sobre mim</h2>
 Estudante de Ciência da Computação, focado na área de Dados, mas aberto para novos conhecimentos e oportunidades. Almejo aprender e me interesso por tudo da área da Tecnologia.
